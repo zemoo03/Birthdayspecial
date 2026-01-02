@@ -30,7 +30,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
   const slides = [
     {
       icon: "🎂",
-      text: "Happy Birthday Payal!",
+      text: "Happy Birthday Payuu!😘❤️🎂",
       type: "announcement",
     },
     {

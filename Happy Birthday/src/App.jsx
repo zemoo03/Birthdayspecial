@@ -79,11 +79,11 @@ function App() {
           <h1 id="heroTitle">
             {newYearReached ? (
               <>
-                Happy Birthday <span className="highlight">Payal</span> 🎂
+                Happy Birthday <span className="highlight">Payuuu</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">Payal's</span> special day 🎂
+                Counting down to <span className="highlight">Payuuu's</span> special day 🎂
               </>
             )}
           </h1>
@@ -98,7 +98,7 @@ function App() {
         <section className="teaser">
           <h2 id="teaserHeading">
             {newYearReached
-              ? "🎉 Ready for a fresh start! 🎉"
+              ? "Ready to Celebrate the Beautiful You 💫"
               : "✨ A spectacular celebration awaits you at midnight... ✨"}
           </h2>
           <p className="teaser-hint">Something magical is about to unfold 💫</p>

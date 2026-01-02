@@ -19,7 +19,7 @@ function Countdown({ onNewYearReached, newYearReached }) {
     // 🎆 SET YOUR NEW YEAR DATE & TIME HERE 🎆
     // ═══════════════════════════════════════════════════════════════
 
-    const targetDate = new Date('2026-01-02T00:00:00');
+    const targetDate = new Date('2026-01-03T00:00:00');
 
     // 📝 HOW TO USE:
     // Replace the date above with your actual New Year target
@@ -74,7 +74,7 @@ function Countdown({ onNewYearReached, newYearReached }) {
       <section className="countdown">
         <div className="flip-timer">
           <span className="newyear-celebration">
-            🎆 Happy Birthday! 🎆
+            🎂 Happy Birthday! 💕
           </span>
         </div>
       </section>
